@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut2\calculator\calculator\bin\Debug\calculator.exe.config
+G:\DotNetPrograms\tut2\calculator\calculator\bin\Debug\calculator.exe
+G:\DotNetPrograms\tut2\calculator\calculator\bin\Debug\calculator.pdb
+G:\DotNetPrograms\tut2\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut2\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut2\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut2\calculator\calculator\obj\Debug\calculator.exe
+G:\DotNetPrograms\tut2\calculator\calculator\obj\Debug\calculator.pdb
