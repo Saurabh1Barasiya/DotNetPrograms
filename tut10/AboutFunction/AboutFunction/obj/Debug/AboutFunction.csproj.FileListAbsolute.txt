@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\bin\Debug\AboutFunction.exe.config
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\bin\Debug\AboutFunction.exe
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\bin\Debug\AboutFunction.pdb
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\obj\Debug\AboutFunction.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\obj\Debug\AboutFunction.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\obj\Debug\AboutFunction.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\obj\Debug\AboutFunction.exe
+G:\DotNetPrograms\tut10\AboutFunction\AboutFunction\obj\Debug\AboutFunction.pdb
