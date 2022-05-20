@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\bin\Debug\Var and dynamic keyword.exe.config
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\bin\Debug\Var and dynamic keyword.exe
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\bin\Debug\Var and dynamic keyword.pdb
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\obj\Debug\Var and dynamic keyword.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\obj\Debug\Var and dynamic keyword.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\obj\Debug\Var and dynamic keyword.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\obj\Debug\Var and dynamic keyword.exe
+G:\DotNetPrograms\tut12\Var and dynamic keyword\Var and dynamic keyword\obj\Debug\Var and dynamic keyword.pdb
