@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\bin\Debug\Ref value and out.exe.config
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\bin\Debug\Ref value and out.exe
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\bin\Debug\Ref value and out.pdb
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\obj\Debug\Ref value and out.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\obj\Debug\Ref value and out.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\obj\Debug\Ref value and out.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\obj\Debug\Ref value and out.exe
+G:\DotNetPrograms\tut11\Ref value and out\Ref value and out\obj\Debug\Ref value and out.pdb
