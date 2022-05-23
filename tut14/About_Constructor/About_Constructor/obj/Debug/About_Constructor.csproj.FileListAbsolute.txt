@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\bin\Debug\About_Constructor.exe.config
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\bin\Debug\About_Constructor.exe
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\bin\Debug\About_Constructor.pdb
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\obj\Debug\About_Constructor.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\obj\Debug\About_Constructor.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\obj\Debug\About_Constructor.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\obj\Debug\About_Constructor.exe
+G:\DotNetPrograms\tut14\About_Constructor\About_Constructor\obj\Debug\About_Constructor.pdb
