@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace About_class
 {
-    public class Student
+    class Student
     {
         // in c# if ham koi bhi access spesifier/modifier nahi dete h to vo by default priivate hota h.
         int sid;
