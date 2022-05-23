@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\bin\Debug\Static_and_Instance.exe.config
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\bin\Debug\Static_and_Instance.exe
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\bin\Debug\Static_and_Instance.pdb
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\obj\Debug\Static_and_Instance.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\obj\Debug\Static_and_Instance.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\obj\Debug\Static_and_Instance.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\obj\Debug\Static_and_Instance.exe
+G:\DotNetPrograms\tut15\Static_and_Instance\Static_and_Instance\obj\Debug\Static_and_Instance.pdb
