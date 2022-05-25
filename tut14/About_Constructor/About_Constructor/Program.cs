@@ -14,7 +14,6 @@ namespace About_Constructor
         // Constructor overloding is possible.
         // when we create object so c# default constructor create karta h.
         // Constructor name and class name should be same.
-        // Constructor modifier must be public or internal.
 
 
         // 👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
