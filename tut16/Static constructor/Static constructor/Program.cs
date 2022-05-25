@@ -8,11 +8,12 @@ namespace Static_constructor
 {
     class Student
     {
+        string name;
         public static string greet;
 
         public static int gold;
 
-        //👀👀👀👀👀👀👀👀👀👀
+        // 👀👀👀👀👀👀👀👀👀👀
         // static constructor only 1 hi baar call hota by CLR . matlab Clr khud ki static constructor ko call karta h.
         // Object banne ke pahle static constructor call hota h.
         // Instance constructor har object ke liye call hota h .
@@ -24,8 +25,14 @@ namespace Static_constructor
             Console.WriteLine("Static constructor invoked ");
         }
 
+
+
+        // static constructor me ham access modifier ka use nahi karte h.
+
+
         public Student()
         {
+            this.name = "Saurabh";
             Console.WriteLine("Public constructor invoked");
 
             // ham static value ko yaha access kar sakte h.
@@ -38,6 +45,12 @@ namespace Static_constructor
             // But instance value ko static method ke ander access nahi kar sakte.
             Console.WriteLine(greet);
             Console.WriteLine(Student.gold);
+        }
+
+        public static void show()
+        {
+            // Console.WriteLine(this.name);
+            // ham (this keyword) instance member ko yaha use nahi kar sakte.
         }
 
     }
