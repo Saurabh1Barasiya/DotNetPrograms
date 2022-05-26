@@ -60,6 +60,10 @@ namespace Inheritance
     {
         // Multilevel Inheritance ...
 
+        // hamne yaha koi bhi variable (member,field,instance variable nahi banaya) .
+        // kyoki hamne inheritance kiya h isiliye hame ye variables by default milege.
+
+
         public ParttimeEmployee()
         {
             this.salary = 10000;
