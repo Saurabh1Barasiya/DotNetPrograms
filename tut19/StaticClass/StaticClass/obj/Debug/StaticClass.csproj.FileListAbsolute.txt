@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+G:\DotNetPrograms\tut19\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
