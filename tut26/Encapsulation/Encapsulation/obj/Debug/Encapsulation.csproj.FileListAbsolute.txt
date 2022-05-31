@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+G:\DotNetPrograms\tut26\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
