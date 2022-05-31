@@ -37,6 +37,12 @@ namespace Single_Inheritance
             Child obj = new Child();
             obj.Show1();
             obj.Show2();
+
+            // kya ho if ham Parent class ka object banau.
+            Parent parent = new Parent();
+            parent.Show1(); // to ab parent class ki hi methods ko call kar sakte h.
+            // parent.Show2();  // error
+
             Console.ReadKey();
 
         }
