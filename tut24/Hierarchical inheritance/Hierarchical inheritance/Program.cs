@@ -53,7 +53,7 @@ namespace Hierarchical_inheritance
             obj2.show();
             obj2.show2();
 
-
+            
             Child1 obj1 = new Child1();
             obj1.show();
             obj1.show1();
