@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\bin\Debug\Autoimplemented properties more.exe.config
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\bin\Debug\Autoimplemented properties more.exe
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\bin\Debug\Autoimplemented properties more.pdb
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\obj\Debug\Autoimplemented properties more.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\obj\Debug\Autoimplemented properties more.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\obj\Debug\Autoimplemented properties more.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\obj\Debug\Autoimplemented properties more.exe
+G:\DotNetPrograms\tut30\Autoimplemented properties more\Autoimplemented properties more\obj\Debug\Autoimplemented properties more.pdb
