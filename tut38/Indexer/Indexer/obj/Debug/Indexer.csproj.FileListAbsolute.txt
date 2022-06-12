@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut38\Indexer\Indexer\bin\Debug\Indexer.exe.config
+G:\DotNetPrograms\tut38\Indexer\Indexer\bin\Debug\Indexer.exe
+G:\DotNetPrograms\tut38\Indexer\Indexer\bin\Debug\Indexer.pdb
+G:\DotNetPrograms\tut38\Indexer\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut38\Indexer\Indexer\obj\Debug\Indexer.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut38\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut38\Indexer\Indexer\obj\Debug\Indexer.exe
+G:\DotNetPrograms\tut38\Indexer\Indexer\obj\Debug\Indexer.pdb
