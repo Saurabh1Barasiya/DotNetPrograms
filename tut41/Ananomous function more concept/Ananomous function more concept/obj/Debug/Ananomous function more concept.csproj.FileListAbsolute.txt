@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\bin\Debug\Ananomous function more concept.exe.config
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\bin\Debug\Ananomous function more concept.exe
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\bin\Debug\Ananomous function more concept.pdb
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\obj\Debug\Ananomous function more concept.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\obj\Debug\Ananomous function more concept.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\obj\Debug\Ananomous function more concept.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\obj\Debug\Ananomous function more concept.exe
+G:\DotNetPrograms\tut41\Ananomous function more concept\Ananomous function more concept\obj\Debug\Ananomous function more concept.pdb
