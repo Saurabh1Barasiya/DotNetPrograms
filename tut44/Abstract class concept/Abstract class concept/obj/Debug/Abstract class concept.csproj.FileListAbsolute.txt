@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\bin\Debug\Abstract class concept.exe.config
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\bin\Debug\Abstract class concept.exe
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\bin\Debug\Abstract class concept.pdb
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\obj\Debug\Abstract class concept.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\obj\Debug\Abstract class concept.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\obj\Debug\Abstract class concept.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\obj\Debug\Abstract class concept.exe
+G:\DotNetPrograms\tut44\Abstract class concept\Abstract class concept\obj\Debug\Abstract class concept.pdb
