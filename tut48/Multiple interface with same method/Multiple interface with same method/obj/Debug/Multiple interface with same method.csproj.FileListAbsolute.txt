@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\bin\Debug\Multiple interface with same method.exe.config
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\bin\Debug\Multiple interface with same method.exe
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\bin\Debug\Multiple interface with same method.pdb
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\obj\Debug\Multiple interface with same method.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\obj\Debug\Multiple interface with same method.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\obj\Debug\Multiple interface with same method.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\obj\Debug\Multiple interface with same method.exe
+G:\DotNetPrograms\tut48\Multiple interface with same method\Multiple interface with same method\obj\Debug\Multiple interface with same method.pdb
