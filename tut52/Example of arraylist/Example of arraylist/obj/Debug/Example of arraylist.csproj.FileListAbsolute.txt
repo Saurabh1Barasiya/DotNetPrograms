@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\bin\Debug\Example of arraylist.exe.config
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\bin\Debug\Example of arraylist.exe
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\bin\Debug\Example of arraylist.pdb
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\obj\Debug\Example of arraylist.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\obj\Debug\Example of arraylist.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\obj\Debug\Example of arraylist.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\obj\Debug\Example of arraylist.exe
+G:\DotNetPrograms\tut52\Example of arraylist\Example of arraylist\obj\Debug\Example of arraylist.pdb
