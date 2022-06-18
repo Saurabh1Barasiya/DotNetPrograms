@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut57\more on genric\more on genric\bin\Debug\more on genric.exe.config
+G:\DotNetPrograms\tut57\more on genric\more on genric\bin\Debug\more on genric.exe
+G:\DotNetPrograms\tut57\more on genric\more on genric\bin\Debug\more on genric.pdb
+G:\DotNetPrograms\tut57\more on genric\more on genric\obj\Debug\more on genric.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut57\more on genric\more on genric\obj\Debug\more on genric.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut57\more on genric\more on genric\obj\Debug\more on genric.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut57\more on genric\more on genric\obj\Debug\more on genric.exe
+G:\DotNetPrograms\tut57\more on genric\more on genric\obj\Debug\more on genric.pdb
