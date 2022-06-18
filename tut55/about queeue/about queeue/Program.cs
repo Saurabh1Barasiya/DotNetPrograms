@@ -30,6 +30,7 @@ namespace about_queeue
            Console.WriteLine("Third item "+obj.Dequeue()); 
            Console.WriteLine("Forth item "+obj.Dequeue()); 
 
+
            Console.ReadKey();
            
            // 
