@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\bin\Debug\Stack_genrick.exe.config
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\bin\Debug\Stack_genrick.exe
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\bin\Debug\Stack_genrick.pdb
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\obj\Debug\Stack_genrick.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\obj\Debug\Stack_genrick.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\obj\Debug\Stack_genrick.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\obj\Debug\Stack_genrick.exe
+G:\DotNetPrograms\tut59\Stack_genrick\Stack_genrick\obj\Debug\Stack_genrick.pdb
