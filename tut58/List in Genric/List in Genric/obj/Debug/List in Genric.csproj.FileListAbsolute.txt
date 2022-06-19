@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\bin\Debug\List in Genric.exe.config
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\bin\Debug\List in Genric.exe
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\bin\Debug\List in Genric.pdb
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\obj\Debug\List in Genric.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\obj\Debug\List in Genric.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\obj\Debug\List in Genric.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\obj\Debug\List in Genric.exe
+G:\DotNetPrograms\tut58\List in Genric\List in Genric\obj\Debug\List in Genric.pdb
