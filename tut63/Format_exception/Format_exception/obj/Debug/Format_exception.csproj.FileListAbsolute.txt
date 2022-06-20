@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\bin\Debug\Format_exception.exe.config
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\bin\Debug\Format_exception.exe
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\bin\Debug\Format_exception.pdb
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\obj\Debug\Format_exception.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\obj\Debug\Format_exception.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\obj\Debug\Format_exception.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\obj\Debug\Format_exception.exe
+G:\DotNetPrograms\tut63\Format_exception\Format_exception\obj\Debug\Format_exception.pdb
