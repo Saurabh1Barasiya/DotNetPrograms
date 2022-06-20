@@ -1,0 +1,8 @@
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\bin\Debug\IndexoutofrangeException.exe.config
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\bin\Debug\IndexoutofrangeException.exe
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\bin\Debug\IndexoutofrangeException.pdb
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\obj\Debug\IndexoutofrangeException.csproj.AssemblyReference.cache
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\obj\Debug\IndexoutofrangeException.csproj.SuggestedBindingRedirects.cache
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\obj\Debug\IndexoutofrangeException.csproj.CoreCompileInputs.cache
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\obj\Debug\IndexoutofrangeException.exe
+G:\DotNetPrograms\tut64\IndexoutofrangeException\IndexoutofrangeException\obj\Debug\IndexoutofrangeException.pdb
