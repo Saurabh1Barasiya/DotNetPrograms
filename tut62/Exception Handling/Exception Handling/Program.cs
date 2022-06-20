@@ -23,7 +23,7 @@ namespace Exception_Handling
             catch (Exception ex)
             {
                 Console.WriteLine("Exception Occour");
-                Console.WriteLine(ex.Message);s
+                Console.WriteLine(ex.Message);
 
             }
 
